@@ -1,2 +1,2 @@
 # galens-alexreaction-cursor
-yes
+use for alexreaction cursor :)
